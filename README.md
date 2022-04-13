@@ -26,6 +26,36 @@ pre-built features / generizing dependency order.
 4) Gameifying building open-source projects that are missing features like WASM, or
 different OSes builds, or making mashups.
 
+# Use case 1 - Home and office automation
+Nothing new here. Except Google Actions still does not work. HAHA.
+The problem that I have with system likes Jenkins and Github Actions, is that it does not put the best practices code 
+right in front of me, like this interface does.
+Google Nest is insecure, I can hear my Ring doorbell talking to me with other people's voices.
+Nest also has a paid subscription for critical features. Jarvis could be used to collect video and audio on a device
+just like in game, and then position the device in a 3D world to simulate a home.
+We already have NSA listening devices in our homes, the whole problem with the NSA is they aren't showing them how
+to use it with code.
+
+Spatial recording from multiple inputs, lay out predicted location of people in a room, in the 3D engine on the side.
+
+
+# Use case 2 - 3D Jenkins alternative
+I've spent a lot of research on [Aspect oriented programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
+and I really enjoyed using the TypeScript transpiler. I've also spent a lot of time coding 
+[Devops in Jupyter notebooks](http://www.pybloggers.com/2016/01/jupyter-notebooks-as-restful-microservices/).
+It would be interesting to combine these two principals to allow multiple languages to control 
+an automated build system and deployment. Using the engine to display a 3D graph of the status.
+
+
+# Use case 3 - Coding code
+I've spent some time graphing Github branches and code branches. I really want to see a tree of code. But more 
+importantly is to pull out the code changes that break thing and just look at that code.
+Jupyter lab alternative where the code is organized spatially in a 3D world to reflect how 
+it is used/called instead of flat, boring, file-system modules we use today.
+
+The module is the feature branch, use 3D find more interesting work to do because code reviews are bullshit.
+
+
 
 ## How do stacks work?
 
